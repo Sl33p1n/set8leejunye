@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">set8leejunye</string>
+    <string name="age">Age:</string>
+    <string name="salary">Salary:</string>
+    <string name="employeeContribute">Employee Contribution:</string>
+    <string name="employerContribute">Employer Contribution:</string>
+    <string name="category">Category:</string>
+    <string-array name="ageGroup">
+        <item>Below 60 years old</item>
+        <item>Above 60 years old</item>
+    </string-array>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="support">Contact Us</string>
+    <string name="first">First</string>
+    <string name="Second">Second</string>
+</resources>
